@@ -26,6 +26,28 @@
 .search{
     width: 40vw;
     height: 30px;
-    margin-left: 30px;
+    margin-left: 35px;
     display: inline-block;
+}
+aside{
+    width: 18vw;
+    height: 70vh;
+    margin-top: 50px;
+    margin-left: 35px;
+    /* border: 1px solid black; */
+}
+.content{
+    list-style: none;
+}
+.content li{
+    margin-top: 12px;
+}
+.content li a{
+    /* margin: 5px; */
+    color: rgb(63, 154, 206);
+    text-decoration-line: none;
+}
+.content li a:visited{
+    /* margin: 5px; */
+    color: rgb(63, 154, 206);
 }
